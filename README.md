@@ -37,7 +37,7 @@ To compile the code, click on the "Solidity Compiler" tab in the left-hand sideb
 
 Once you have successfully compiled and deployed your MyToken contract to the Ethereum blockchain, you can start using it for various purposes, such as creating and managing your own cryptocurrency. 
 
-Before you can interact with the contract, you need to deploy it to the Ethereum blockchain. You can do this using Ethereum development tools like Remix, Truffle, or Hardhat. Deploying the contract will result in a transaction on the Ethereum network, and you'll receive a contract address.
+Before you can interact with the contract, you need to deploy it to the Ethereum blockchain. 
 
 After deployment, you can interact with the contract using Ethereum wallets or other smart contract interaction tools. Here's how you can interact with the provided contract:
 
